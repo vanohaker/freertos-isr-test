@@ -1,0 +1,29 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\iglazkov\\esp\\v5.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM8",
+    "idf.toolsPathWin": "C:\\Users\\iglazkov\\.espressif",
+    "files.associations": {
+        "freertos.h": "c",
+        "esp_mac.h": "c",
+        "random": "c",
+        "stdio.h": "c",
+        "esp_chip_info.h": "c",
+        "esp_wifi.h": "c",
+        "esp_system.h": "c",
+        "chrono": "cpp",
+        "format": "cpp",
+        "thread": "cpp",
+        "vector": "cpp",
+        "string.h": "c",
+        "sdkconfig.h": "c",
+        "esp_log.h": "c",
+        "esp_http_server.h": "c",
+        "err.h": "c",
+        "ds1390u.h": "c"
+    },
+    "idf.flashType": "UART"
+}
